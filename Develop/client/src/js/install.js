@@ -1,5 +1,3 @@
-8 lines (19 sloc)  656 Bytes
-
 const butInstall = document.getElementById('buttonInstall');
 
 // Logic for installing the PWA
